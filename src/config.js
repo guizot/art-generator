@@ -27,7 +27,7 @@ const locations = [
     { place: "Venice City", color: "black" }
 ];
 
-const defaultEdition = 10;
+const defaultEdition = 5;
 const savedFilename = "Crypto Cats";
 const enableRenameFile = false;
 const enableWriteVersion = false;
